@@ -1,0 +1,13 @@
+div{
+    height:100px;
+    width:100px;
+    color:red;
+    background-color: aquamarine;
+    border:1px solid black;
+}
+#btn2{
+    height: 50px;
+    width:100px;
+    color:blue;
+    background-color: blueviolet;
+}
